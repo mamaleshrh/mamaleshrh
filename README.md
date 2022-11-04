@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mamaleshrh
+- 👋 Hi, I’m Mamalesh Rajkumar Hake
 - 👀 I’m interested in new things exploring
 - 🌱 I’m currently learning new things
 - 💞️ I’m looking to collaborate on new things
