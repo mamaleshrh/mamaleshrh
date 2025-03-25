@@ -11,6 +11,7 @@
 
 
 
+
 <h1 align="center">Hi 👋, I'm Mamalesh Rajkumar Hake</h1>
 <h3 align="center">Student at IIT (BHU), Varanasi</h3>
 
@@ -40,8 +41,9 @@
 </p>
 
 ### Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mamaleshrh&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" /> 
-<br />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamaleshrh&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 <p align="left">
